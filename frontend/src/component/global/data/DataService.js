@@ -36,8 +36,8 @@ export default class DataService {
                 code: 'hkd'
             },
             {
-                name: 'PESO',
-                code: 'cop'
+                name: 'THB',
+                code: 'thb'
             }
         ];
         this.stoppableEarningRulesType = [
